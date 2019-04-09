@@ -1,9 +1,4 @@
 {
-	"title": "Hello World",
-	"list": [
-		"Karotten",
-		"Äpfel"
-	],
 	"news": [
 		{
 			"news__title": "Titel",
