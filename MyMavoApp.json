@@ -8,12 +8,18 @@
 		{
 			"news__title": "Titel",
 			"news__date": "01.01.2019",
-			"news__p": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt\n                        ut\n                        labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo\n                        dolores\n                        et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt\n                        ut\n                        labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo\n                        dolores\n                        et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n                    "
+			"news__p": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt\n                        ut\n                        labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo\n                        dolores\n                        et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt\n                        ut\n                        labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo\n                        dolores\n                        et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n                    ",
+			"title": "Title",
+			"date": "01.01.2019",
+			"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
 		},
 		{
 			"news__title": "fdsgs",
 			"news__date": "sdfg",
-			"news__p": "sdfgsdfgsdfgsdf"
+			"news__p": "sdfgsdfgsdfgsdf",
+			"title": "Title",
+			"date": "01.01.2019",
+			"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
 		}
 	]
 }
